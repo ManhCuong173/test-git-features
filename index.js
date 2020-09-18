@@ -1,1 +1,1 @@
-console.log('day la đoạn dữ liệu mới từ nhánh c1')
+console.log('day la đoạn dữ liệu mới từ nhánh c2 mới nhất')
