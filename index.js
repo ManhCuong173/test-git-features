@@ -1,1 +1,1 @@
-console.log('something newest')
+console.log('day la đoạn dữ liệu mới')
