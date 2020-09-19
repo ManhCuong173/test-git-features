@@ -1,1 +1,1 @@
-console.log('day la đoạn dữ liệu mới từ nhánh B4')
+console.log('Đây là một vài sự thay đổi từ nhánh master')
